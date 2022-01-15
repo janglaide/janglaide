@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 [![janglaide's GitHub stats](https://github-readme-stats.vercel.app/api?username=janglaide&theme=merko)](https://github.com/janglaide/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janglaide&theme=merko)](https://github.com/janglaide/github-readme-stats)
