@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![janglaide's GitHub stats](https://github-readme-stats.vercel.app/api?username=janglaide)](https://github.com/janglaide/github-readme-stats)
+[![janglaide's GitHub stats](https://github-readme-stats.vercel.app/api?username=janglaide&theme=merko)](https://github.com/janglaide/github-readme-stats)
 <!--
 **janglaide/janglaide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
